@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|c:\\git\\sistema_vivero\\sistemavivero\\sistemavivero.test\\productocontroltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|solutionrelative:sistemavivero.test\\productocontroltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|c:\\git\\sistema_vivero\\sistemavivero\\sistemavivero.test\\laborproductocontrolrelaciontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|solutionrelative:sistemavivero.test\\laborproductocontrolrelaciontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C0DF4F-3CBB-49F4-AE27-55302A1EB19F}|SistemaVivero\\SistemaVivero.csproj|c:\\git\\sistema_vivero\\sistemavivero\\sistemavivero\\models\\labor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C0DF4F-3CBB-49F4-AE27-55302A1EB19F}|SistemaVivero\\SistemaVivero.csproj|solutionrelative:sistemavivero\\models\\labor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C0DF4F-3CBB-49F4-AE27-55302A1EB19F}|SistemaVivero\\SistemaVivero.csproj|c:\\git\\sistema_vivero\\sistemavivero\\sistemavivero\\models\\productocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C0DF4F-3CBB-49F4-AE27-55302A1EB19F}|SistemaVivero\\SistemaVivero.csproj|solutionrelative:sistemavivero\\models\\productocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|c:\\git\\sistema_vivero\\sistemavivero\\sistemavivero.test\\viverolaborrelaciontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|solutionrelative:sistemavivero.test\\viverolaborrelaciontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|c:\\git\\sistema_vivero\\sistemavivero\\sistemavivero.test\\fincaviverorelaciontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|solutionrelative:sistemavivero.test\\fincaviverorelaciontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|c:\\git\\sistema_vivero\\sistemavivero\\sistemavivero.test\\productorfincarelaciontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|solutionrelative:sistemavivero.test\\productorfincarelaciontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C0DF4F-3CBB-49F4-AE27-55302A1EB19F}|SistemaVivero\\SistemaVivero.csproj|c:\\git\\sistema_vivero\\sistemavivero\\sistemavivero\\models\\finca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C0DF4F-3CBB-49F4-AE27-55302A1EB19F}|SistemaVivero\\SistemaVivero.csproj|solutionrelative:sistemavivero\\models\\finca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C0DF4F-3CBB-49F4-AE27-55302A1EB19F}|SistemaVivero\\SistemaVivero.csproj|c:\\git\\sistema_vivero\\sistemavivero\\sistemavivero\\models\\productor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C0DF4F-3CBB-49F4-AE27-55302A1EB19F}|SistemaVivero\\SistemaVivero.csproj|solutionrelative:sistemavivero\\models\\productor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|c:\\git\\sistema_vivero\\sistemavivero\\sistemavivero.test\\fincatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|solutionrelative:sistemavivero.test\\fincatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|c:\\git\\sistema_vivero\\sistemavivero\\sistemavivero.test\\laborproductocontroltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|solutionrelative:sistemavivero.test\\laborproductocontroltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|c:\\git\\sistema_vivero\\sistemavivero\\sistemavivero.test\\labortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|solutionrelative:sistemavivero.test\\labortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|c:\\git\\sistema_vivero\\sistemavivero\\sistemavivero.test\\productortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|solutionrelative:sistemavivero.test\\productortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|c:\\git\\sistema_vivero\\sistemavivero\\sistemavivero.test\\viverotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}|SistemaVivero.Test\\SistemaVivero.Test.csproj|solutionrelative:sistemavivero.test\\viverotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C0DF4F-3CBB-49F4-AE27-55302A1EB19F}|SistemaVivero\\SistemaVivero.csproj|c:\\git\\sistema_vivero\\sistemavivero\\sistemavivero\\models\\laborproductocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C0DF4F-3CBB-49F4-AE27-55302A1EB19F}|SistemaVivero\\SistemaVivero.csproj|solutionrelative:sistemavivero\\models\\laborproductocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Labor.cs",
+              "DocumentMoniker": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero\\Models\\Labor.cs",
+              "RelativeDocumentMoniker": "SistemaVivero\\Models\\Labor.cs",
+              "ToolTip": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero\\Models\\Labor.cs",
+              "RelativeToolTip": "SistemaVivero\\Models\\Labor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:31:32.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LaborProductoControlRelacionTest.cs",
+              "DocumentMoniker": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\LaborProductoControlRelacionTest.cs",
+              "RelativeDocumentMoniker": "SistemaVivero.Test\\LaborProductoControlRelacionTest.cs",
+              "ToolTip": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\LaborProductoControlRelacionTest.cs",
+              "RelativeToolTip": "SistemaVivero.Test\\LaborProductoControlRelacionTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:28:53.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoControl.cs",
+              "DocumentMoniker": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero\\Models\\ProductoControl.cs",
+              "RelativeDocumentMoniker": "SistemaVivero\\Models\\ProductoControl.cs",
+              "ToolTip": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero\\Models\\ProductoControl.cs",
+              "RelativeToolTip": "SistemaVivero\\Models\\ProductoControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:01:18.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViveroLaborRelacionTest.cs",
+              "DocumentMoniker": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\ViveroLaborRelacionTest.cs",
+              "RelativeDocumentMoniker": "SistemaVivero.Test\\ViveroLaborRelacionTest.cs",
+              "ToolTip": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\ViveroLaborRelacionTest.cs",
+              "RelativeToolTip": "SistemaVivero.Test\\ViveroLaborRelacionTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:24:09.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FincaViveroRelacionTest.cs",
+              "DocumentMoniker": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\FincaViveroRelacionTest.cs",
+              "RelativeDocumentMoniker": "SistemaVivero.Test\\FincaViveroRelacionTest.cs",
+              "ToolTip": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\FincaViveroRelacionTest.cs",
+              "RelativeToolTip": "SistemaVivero.Test\\FincaViveroRelacionTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:23:22.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductorfincaRelacionTest.cs",
+              "DocumentMoniker": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\ProductorfincaRelacionTest.cs",
+              "RelativeDocumentMoniker": "SistemaVivero.Test\\ProductorfincaRelacionTest.cs",
+              "ToolTip": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\ProductorfincaRelacionTest.cs",
+              "RelativeToolTip": "SistemaVivero.Test\\ProductorfincaRelacionTest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:14:42.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Productor.cs",
+              "DocumentMoniker": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero\\Models\\Productor.cs",
+              "RelativeDocumentMoniker": "SistemaVivero\\Models\\Productor.cs",
+              "ToolTip": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero\\Models\\Productor.cs",
+              "RelativeToolTip": "SistemaVivero\\Models\\Productor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:01:03.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Finca.cs",
+              "DocumentMoniker": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero\\Models\\Finca.cs",
+              "RelativeDocumentMoniker": "SistemaVivero\\Models\\Finca.cs",
+              "ToolTip": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero\\Models\\Finca.cs",
+              "RelativeToolTip": "SistemaVivero\\Models\\Finca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:16:20.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoControlTest.cs",
+              "DocumentMoniker": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\ProductoControlTest.cs",
+              "RelativeDocumentMoniker": "SistemaVivero.Test\\ProductoControlTest.cs",
+              "ToolTip": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\ProductoControlTest.cs",
+              "RelativeToolTip": "SistemaVivero.Test\\ProductoControlTest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:00:46.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LaborProductoControlTest.cs",
+              "DocumentMoniker": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\LaborProductoControlTest.cs",
+              "RelativeDocumentMoniker": "SistemaVivero.Test\\LaborProductoControlTest.cs",
+              "ToolTip": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\LaborProductoControlTest.cs",
+              "RelativeToolTip": "SistemaVivero.Test\\LaborProductoControlTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:01:58.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LaborTest.cs",
+              "DocumentMoniker": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\LaborTest.cs",
+              "RelativeDocumentMoniker": "SistemaVivero.Test\\LaborTest.cs",
+              "ToolTip": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\LaborTest.cs",
+              "RelativeToolTip": "SistemaVivero.Test\\LaborTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:49:45.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViveroTest.cs",
+              "DocumentMoniker": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\ViveroTest.cs",
+              "RelativeDocumentMoniker": "SistemaVivero.Test\\ViveroTest.cs",
+              "ToolTip": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\ViveroTest.cs",
+              "RelativeToolTip": "SistemaVivero.Test\\ViveroTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:41:25.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FincaTest.cs",
+              "DocumentMoniker": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\FincaTest.cs",
+              "RelativeDocumentMoniker": "SistemaVivero.Test\\FincaTest.cs",
+              "ToolTip": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\FincaTest.cs",
+              "RelativeToolTip": "SistemaVivero.Test\\FincaTest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:39:49.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductorTest.cs",
+              "DocumentMoniker": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\ProductorTest.cs",
+              "RelativeDocumentMoniker": "SistemaVivero.Test\\ProductorTest.cs",
+              "ToolTip": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero.Test\\ProductorTest.cs",
+              "RelativeToolTip": "SistemaVivero.Test\\ProductorTest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:24:27.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LaborProductoControl.cs",
+              "DocumentMoniker": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero\\Models\\LaborProductoControl.cs",
+              "RelativeDocumentMoniker": "SistemaVivero\\Models\\LaborProductoControl.cs",
+              "ToolTip": "C:\\GIT\\SISTEMA_VIVERO\\SistemaVivero\\SistemaVivero\\Models\\LaborProductoControl.cs",
+              "RelativeToolTip": "SistemaVivero\\Models\\LaborProductoControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:06:46.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

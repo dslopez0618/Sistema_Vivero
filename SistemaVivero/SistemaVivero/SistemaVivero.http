@@ -1,0 +1,6 @@
+@SistemaVivero_HostAddress = http://localhost:5223
+
+GET {{SistemaVivero_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

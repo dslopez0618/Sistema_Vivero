@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaVivero", "SistemaVivero\SistemaVivero.csproj", "{46C0DF4F-3CBB-49F4-AE27-55302A1EB19F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaVivero.Test", "SistemaVivero.Test\SistemaVivero.Test.csproj", "{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C0DF4F-3CBB-49F4-AE27-55302A1EB19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C0DF4F-3CBB-49F4-AE27-55302A1EB19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C0DF4F-3CBB-49F4-AE27-55302A1EB19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C0DF4F-3CBB-49F4-AE27-55302A1EB19F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDC7FBF-D2A3-438E-B4BE-535B9AED2030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21EB35FD-B7B2-4C3B-8573-CDED517386F3}
+	EndGlobalSection
+EndGlobal
