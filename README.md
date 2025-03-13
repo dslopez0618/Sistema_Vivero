@@ -57,5 +57,7 @@ Archivos de prueba disponibles en la carpeta `Test/`:
 ## Autor
 
 Daniel Steven López Mejía
+
 Proyecto académico - Ingeniería de Sistemas y Computación
+
 Universidad Tecnológica de Pereira
